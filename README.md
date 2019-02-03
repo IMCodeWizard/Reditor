@@ -1,7 +1,8 @@
 # Reditor 
-- Reditor allow to annotate image by drawing & place text
 [![CocoaPods](https://img.shields.io/cocoapods/p/CodeEditorView.svg)]()
 [![CocoaPods](https://img.shields.io/cocoapods/l/CodeEditorView.svg)]()
+- Reditor allow to annotate image by drawing & place text
+
 
 ![Screenshot](https://github.com/iOS-Ninja/Reditor/blob/master/IMG_01.PNG)
 ![Screenshot](https://github.com/iOS-Ninja/Reditor/blob/master/IMG_02.PNG)
